@@ -1,0 +1,38 @@
+_repo: Betty-Wales-on-the-campus_69132
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nagel, Eva M.
+    alias: Nagel, E. M. (Eva M.)
+    gutenberg_agent_id: '37135'
+    url: http://www.gutenberg.org/2009/agents/37135
+creator:
+  author:
+    agent_name: Dunton, Edith K. (Edith Kellogg)
+    aliases:
+    - Warde, Margaret
+    - Dunton, Edith Kellogg
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '35189'
+    url: http://www.gutenberg.org/2009/agents/35189
+    wikipedia: https://en.wikipedia.org/wiki/Edith_Kellogg_Dunton
+description: ''
+gutenberg_issued: '2022-10-11'
+identifiers:
+  gutenberg: '69132'
+language: en
+pgterms:marc904: https://archive.org/details/bettywalesdecide00ward/mode/2up
+pgterms:marc905: 20200714090820warde
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (The New York Public Library's Digital Collections)
+publication_note: United States :The Penn Publishing Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Betty Wales on the campus
+url: http://www.gutenberg.org/ebooks/69132
