@@ -6,6 +6,9 @@ contributor:
     alias: Nagel, E. M. (Eva M.)
     gutenberg_agent_id: '37135'
     url: http://www.gutenberg.org/2009/agents/37135
+covers:
+- cover_type: archival
+  image_path: 69132-h/images/cover.jpg
 creator:
   author:
     agent_name: Dunton, Edith K. (Edith Kellogg)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35189
     wikipedia: https://en.wikipedia.org/wiki/Edith_Kellogg_Dunton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69132#Betty-Wales-on-the-campus
 gutenberg_issued: '2022-10-11'
 identifiers:
   gutenberg: '69132'
